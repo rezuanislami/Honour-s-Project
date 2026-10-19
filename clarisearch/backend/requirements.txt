@@ -1,0 +1,12 @@
+fastapi==0.141.1
+uvicorn[standard]==0.54.0
+pydantic==2.13.5
+rank-bm25==0.2.2
+numpy==2.5.3
+sentence-transformers==5.7.0
+faiss-cpu==1.15.1
+scikit-learn==1.9.1
+scipy==1.18.1
+joblib==1.6.0
+openai==3.19.2
+python-dotenv==1.2.4
