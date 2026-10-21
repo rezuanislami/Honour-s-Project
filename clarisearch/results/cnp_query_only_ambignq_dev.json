@@ -1,0 +1,17 @@
+{
+  "mode": "query_only",
+  "source": "ambignq",
+  "label_provenance": [
+    "derived_from_ambignq_annotation_type"
+  ],
+  "n": 2002,
+  "precision": 0.6970560303893637,
+  "recall": 0.6262798634812287,
+  "macro_f1": 0.6171276629339801,
+  "weighted_f1": 0.6244131201487626,
+  "accuracy": 0.6218781218781219,
+  "auroc": 0.6768010608988856,
+  "brier_score": 0.22657509935974487,
+  "expected_calibration_error_10_bins": 0.07100277610357338,
+  "threshold": 0.5
+}
