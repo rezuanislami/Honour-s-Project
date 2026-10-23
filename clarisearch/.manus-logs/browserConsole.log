@@ -1,0 +1,3 @@
+[2026-10-23T01:49:44.560Z] {"timestamp":1792720181661,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-10-23T01:49:44.560Z] {"timestamp":1792720183257,"level":"DEBUG","args":["[vite] connecting..."],"stack":null}
+[2026-10-23T01:49:44.560Z] {"timestamp":1792720183351,"level":"DEBUG","args":["[vite] connected."],"stack":null}
